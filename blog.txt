@@ -1,0 +1,10 @@
+Blog
+------
+
+Incluir la cabecera
+
+Seccio que muestra las entrada y post creados para el sitio
+
+
+
+Incluir el pie
