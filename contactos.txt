@@ -5,5 +5,8 @@ Incluido la cabecera
 Formulario para recibir consultas
 
 Incluido un mapa  para ubicacion
+Actualizado el correo electronico
+
+los telefonos de referencia
 
 Incluido pie de pagina

@@ -4,10 +4,12 @@ Logo y la opcion de buscar
 
 Creado menu con opciones 
 
-Slider con 5 imagenes
+Slider con 6 imagenes
 
-Servisios con tres tarjetas
+Servicios con tres tarjetas
 
-Llamadas a una accion 
+Mostar los logos de los auspiciadores
+
+Fotos de los ejecutivos de la empresa
 
 Pie de pagina
