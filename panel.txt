@@ -1,0 +1,8 @@
+Panel
+------
+
+Incluido logo, 
+Opciones de perfil y sslair
+Brra de opciones lateral
+El estado de la informacion de productos 
+Pie de pagina
